@@ -1,0 +1,10 @@
+C:\Users\84792\source\repos\2212427_DangDangNguyen_BaiTap\2212427_DangDangNguyen_Bai08\obj\Debug\2212427_DangDangNguyen_BaiTap09.csproj.AssemblyReference.cache
+C:\Users\84792\source\repos\2212427_DangDangNguyen_BaiTap\2212427_DangDangNguyen_Bai08\obj\Debug\_2212427_DangDangNguyen_Bai08.Form1.resources
+C:\Users\84792\source\repos\2212427_DangDangNguyen_BaiTap\2212427_DangDangNguyen_Bai08\obj\Debug\_2212427_DangDangNguyen_Bai08.Properties.Resources.resources
+C:\Users\84792\source\repos\2212427_DangDangNguyen_BaiTap\2212427_DangDangNguyen_Bai08\obj\Debug\2212427_DangDangNguyen_BaiTap09.csproj.GenerateResource.cache
+C:\Users\84792\source\repos\2212427_DangDangNguyen_BaiTap\2212427_DangDangNguyen_Bai08\obj\Debug\2212427_DangDangNguyen_BaiTap09.csproj.CoreCompileInputs.cache
+C:\Users\84792\source\repos\2212427_DangDangNguyen_BaiTap\2212427_DangDangNguyen_Bai08\bin\Debug\2212427_DangDangNguyen_Bai08.exe.config
+C:\Users\84792\source\repos\2212427_DangDangNguyen_BaiTap\2212427_DangDangNguyen_Bai08\bin\Debug\2212427_DangDangNguyen_Bai08.exe
+C:\Users\84792\source\repos\2212427_DangDangNguyen_BaiTap\2212427_DangDangNguyen_Bai08\bin\Debug\2212427_DangDangNguyen_Bai08.pdb
+C:\Users\84792\source\repos\2212427_DangDangNguyen_BaiTap\2212427_DangDangNguyen_Bai08\obj\Debug\2212427_DangDangNguyen_Bai08.exe
+C:\Users\84792\source\repos\2212427_DangDangNguyen_BaiTap\2212427_DangDangNguyen_Bai08\obj\Debug\2212427_DangDangNguyen_Bai08.pdb
